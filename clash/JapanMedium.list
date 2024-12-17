@@ -1,10 +1,10 @@
 # JapanMedium
-DOMAIN,pixiv.net
-DOMAIN,pximg.net
-DOMAIN,pixiv-recommend.net
-DOMAIN,fanbox.cc
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pixiv-recommend.net
+DOMAIN-SUFFIX,fanbox.cc
 # ---------------------------
-DOMAIN,dlsite.com
-DOMAIN.dlsite.jp
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX.dlsite.jp
 # ---------------------------
-DOMAIN,mora.jp
+DOMAIN-SUFFIX,mora.jp
